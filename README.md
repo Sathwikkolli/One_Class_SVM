@@ -205,9 +205,9 @@ If you use this code, please cite:
 ```bibtex
 @software{mono_speaker_deepfake_guard,
   title={Mono-Speaker Deepfake Guard: One-Class SVM Audio Verification},
-  author={Your Name},
+  author={Sathwik Kolli},
   year={2025},
-  url={https://github.com/yourusername/mono-speaker-deepfake-guard}
+  url={https://github.com/Sathwikkolli/mono-speaker-deepfake-guard}
 }
 ```
 
